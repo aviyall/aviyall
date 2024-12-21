@@ -1,7 +1,7 @@
 ### Hello There! 👋
 <p>
   <samp>
-    I'm a tech enthusiast passionate about Electronics📡, Networking🖧 and Cybersecurity🔒. I spend a lot of time experimenting with Raspberry Pis and working on programming projects in my free time! 
+    I'm a tech enthusiast with a keen interest in electronics📡, cybersecurity 🌐, and networking 🖧. In my free time, I work on programming projects and experiment a lot with Raspberry Pis!
   </samp>
 </p>
 
