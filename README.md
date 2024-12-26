@@ -6,7 +6,7 @@
 </p>
 
 ### Skillset
-[![My Skills](https://skillicons.dev/icons?i=linux,arduino,bash,raspberrypi,powershell,py,cpp,js,java,debian,ubuntu,mysql)](https://github.com/aviyall/aviyall)
+[![My Skills](https://skillicons.dev/icons?i=linux,arduino,bash,raspberrypi,powershell,py,c,cpp,java,mysql,debian,ubuntu)](https://github.com/aviyall/aviyall)
 
  
 ##### Reach me at : aviyall.git@gmail.com
