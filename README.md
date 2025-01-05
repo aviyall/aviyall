@@ -1,11 +1,12 @@
-### Hi There! 👋
+### Hey!
 <p>
   <samp>
-    I'm a tech enthusiast with a keen interest in electronics📡, cybersecurity 🌐, and networking 🖧. In my free time, I work on programming projects and experiment a lot with Raspberry Pis!
+    I'm Avneeth I hope you find something interesting here. Feel free to explore my projects and let me know your thoughts!
   </samp>
 </p>
 
-### Skillset
+#### Skillset:
+
 [![My Skills](https://skillicons.dev/icons?i=linux,arduino,bash,raspberrypi,powershell,py,c,cpp,java,mysql,ubuntu)](https://github.com/aviyall/aviyall)
 
  
