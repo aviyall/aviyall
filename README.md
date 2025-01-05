@@ -1,7 +1,7 @@
 ### Hey!
 <p>
   <samp>
-    I'm Avneeth I hope you find something interesting here. Feel free to explore my projects and let me know your thoughts!
+    I'm Avneeth, I hope you find something interesting here. Feel free to explore my projects and let me know your thoughts!
   </samp>
 </p>
 
